@@ -104,3 +104,13 @@ table[epub|type~="z3998:drama"]{
 	text-align: right;
 	width: 20%;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+
+/* If eliding within an epigraph, include this additional style: */
+[epub|type~="epigraph"] span.elision{
+	font-style: normal;
+}
