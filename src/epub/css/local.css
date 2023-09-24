@@ -114,3 +114,12 @@ span.elision{
 [epub|type~="epigraph"] span.elision{
 	font-style: normal;
 }
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
