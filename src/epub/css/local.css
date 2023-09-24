@@ -105,6 +105,10 @@ table[epub|type~="z3998:drama"]{
 	width: 20%;
 }
 
+[epub|type~="epigraph"] [epub|type~="z3998:persona"]{
+	font-style: normal;
+}
+
 span.elision{
 	margin: .5em;
 	margin-left: 3em;
