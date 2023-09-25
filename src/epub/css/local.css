@@ -8,19 +8,10 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 /* End all epigraphs */
 
@@ -32,8 +23,7 @@
 }
 
 [epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
@@ -46,8 +36,7 @@
 }
 
 [epub|type~="z3998:poem"] p > span + br,
-[epub|type~="z3998:song"] p > span + br,
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
@@ -70,19 +59,10 @@ header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
-}
-
-[epub|type~="z3998:drama"] tr:first-child td{
-	padding-top: 0;
-}
-
-[epub|type~="z3998:drama"] tr:last-child td{
-	padding-bottom: 0;
 }
 
 [epub|type~="z3998:drama"] td{
