@@ -6,4 +6,10 @@
 			<reason>Word is used as a among other french words, so it makes sense to treat as a foreign word, not a loanword.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-22.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Quoatations are correct, since the same quotation speech spans more than one paragraph.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
