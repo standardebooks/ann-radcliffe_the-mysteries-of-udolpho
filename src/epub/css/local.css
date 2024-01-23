@@ -107,3 +107,9 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
