@@ -20,7 +20,6 @@
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
 section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
@@ -28,13 +27,11 @@ section > header [epub|type~="epigraph"]{
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
 section > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
@@ -49,6 +46,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 [epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:verse"] p + p,
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
@@ -62,6 +60,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 [epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
