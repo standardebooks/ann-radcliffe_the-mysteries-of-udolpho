@@ -60,7 +60,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is a typical gothic novel. Set in a large castle which hosts supposedly supernatural events, a cruel and cunning villain is opposed by a young, virtuous heroine, who experiences great terror in the hands of her adversary.&lt;/p&gt;
 			&lt;p&gt;Emily St. Aubert, the novel’s protagonist, loses her parents and must be guarded by her aunt, who unwillingly puts her in great danger. She must survive the attempts of deception and coercion by her late guardian’s husband, count Montoni, a cruel and manipulating man. The hope of returning to her home in France and be reunited with her suitor Valancourt gives her strength to opposed the count’s schemes.&lt;/p&gt;
-			&lt;p&gt;It was parodied significantly by Jane Austen in Northanger Abbey, where the protagonist draws parallels between the novel and the people around you. It is also mentioned and referenced in several other works of literature.&lt;/p&gt;
+			&lt;p&gt;It was parodied significantly by &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt; in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jane-austen/northanger-abbey"&gt;Northanger Abbey&lt;/a&gt;&lt;/i&gt;, where the protagonist draws parallels between the novel and the people around her. It is also mentioned and referenced in several other works of literature, with the use of &lt;i&gt;Udolpho&lt;/i&gt; or &lt;i&gt;Mrs. Radcliffe’s novel&lt;/i&gt; in the narrative to invoke either similarities with the location or the protagonist.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ann-radcliffe"&gt;Ann Radcliffe’s&lt;/a&gt; fourth novel, being originally published in four volumes in 1794.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -130,12 +130,7 @@
 		<item href="text/chapter-23.xhtml" id="chapter-23.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-24.xhtml" id="chapter-24.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-26.xhtml" id="chapter-26.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-27.xhtml" id="chapter-27.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-28.xhtml" id="chapter-28.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-29.xhtml" id="chapter-29.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-30.xhtml" id="chapter-30.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-31.xhtml" id="chapter-31.xhtml" media-type="application/xhtml+xml"/>
+		<item h-i --root rebase="text/chapter-31.xhtml" id="chapter-31.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-32.xhtml" id="chapter-32.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-33.xhtml" id="chapter-33.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-34.xhtml" id="chapter-34.xhtml" media-type="application/xhtml+xml"/>
