@@ -77,8 +77,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056784</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">Jacob van Ruisdae</dc:contributor>
-		<meta property="file-as" refines="#artist">Ruisdae, Jacob van</meta>
+		<dc:contributor id="artist">Jacob van Ruisdael</dc:contributor>
+		<meta property="file-as" refines="#artist">Ruisdael, Jacob van</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jacob Isaackszoon van Ruisdael</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jacob_van_Ruisdael</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82062822</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
