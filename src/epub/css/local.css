@@ -13,7 +13,33 @@
 	font-variant: small-caps;
 	margin-top: 1em;
 }
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
 /* End all epigraphs */
+
+/* Epigraphs in section headers */
+article > header [epub|type~="epigraph"],
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+article > header [epub|type~="epigraph"] + *,
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	article > header [epub|type~="epigraph"],
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
 
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
