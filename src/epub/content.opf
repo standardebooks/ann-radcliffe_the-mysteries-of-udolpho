@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ann-radcliffe/the-mysteries-of-udolpho</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-05T17:50:32Z</dc:date>
+		<meta property="dcterms:modified">2024-02-05T17:50:32Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -58,17 +58,16 @@
 		<meta property="group-position" refines="#collection-1">32</meta>
 		<dc:description id="description">A young woman experiences a series of unfortunate situations connected to an ancient castle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is a typical gothic novel. Set in a large castle which hosts supposedly supernatural events, a cruel and cunning villain is opposed by a young, virtuous heroine, who experiences great terror in the hands of her adversary.&lt;/p&gt;
-			&lt;p&gt;Emily St. Aubert, the novel’s protagonist, loses her parents and must be guarded by her aunt, who unwillingly puts her in great danger. She must survive the attempts of deception and coercion by her late guardian’s husband, count Montoni, a cruel and manipulating man. The hope of returning to her home in France and be reunited with her suitor Valancourt gives her strength to opposed the count’s schemes.&lt;/p&gt;
-			&lt;p&gt;It was parodied significantly by &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt; in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jane-austen/northanger-abbey"&gt;Northanger Abbey&lt;/a&gt;&lt;/i&gt;, where the protagonist draws parallels between the novel and the people around her. It is also mentioned and referenced in several other works of literature, with the use of &lt;i&gt;Udolpho&lt;/i&gt; or &lt;i&gt;Mrs. Radcliffe’s novel&lt;/i&gt; in the narrative to invoke either similarities with the location or the protagonist.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ann-radcliffe"&gt;Ann Radcliffe’s&lt;/a&gt; fourth novel, being originally published in four volumes in 1794.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ann-radcliffe"&gt;Ann Radcliffe’s&lt;/a&gt; fourth novel, first published in four volumes in 1794. It’s a typical gothic novel: set in a large castle which experiences supposedly-supernatural events, a cruel and cunning villain is opposed by a young, virtuous heroine, who experiences great terror in the hands of her adversary.&lt;/p&gt;
+			&lt;p&gt;Emily St. Aubert, the novel’s protagonist, loses her parents and is placed in the care of her aunt, who unwittingly puts her in great danger. Emily must outwit the count Montoni, her late guardian’s husband and a cruel and manipulating man, who attempts to deceive and coerce her. The hope of returning to her home in France and being reunited with her suitor Valancourt gives her the strength she needs to oppose the count’s schemes.&lt;/p&gt;
+			&lt;p&gt;The novel was parodied by &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt; in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jane-austen/northanger-abbey"&gt;Northanger Abbey&lt;/a&gt;&lt;/i&gt;, where that novel’s protagonist draws parallels between &lt;i&gt;Udolpho&lt;/i&gt; and the people around her.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3268</dc:source>
 		<dc:source>https://archive.org/details/mysteriesudolph00unkngoog</dc:source>
 		<meta property="se:production-notes">The Internet Archive scans are not the same ones used for the Project Gutenberg transcription. The PG edition is divided in four volumes, while this one makes no such division. The IA scans have the chapter 18 of this edition divided in two parts (chapters 18 and 19 of the scan), so it appears to have an extra chapter.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">292858</meta>
+		<meta property="se:reading-ease.flesch">50.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mysteries_of_Udolpho</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ann-radcliffe_the-mysteries-of-udolpho</meta>
 		<dc:creator id="author">Ann Radcliffe</dc:creator>
@@ -97,6 +96,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
