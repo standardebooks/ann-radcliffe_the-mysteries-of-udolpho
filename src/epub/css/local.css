@@ -140,8 +140,9 @@ table[epub|type~="z3998:drama"]{
 	width: 20%;
 }
 
-[epub|type~="epigraph"] [epub|type~="z3998:persona"]{
+[epub|type~="z3998:persona"]{
 	font-style: normal;
+	font-variant: all-small-caps;
 }
 
 span.elision{
@@ -163,12 +164,7 @@ footer{
 	text-align: right;
 }
 
-header{
+blockquote header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
-}
-
-#chapter-55 header > p{
-	text-transform: lowercase;
 }
