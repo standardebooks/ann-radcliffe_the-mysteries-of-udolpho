@@ -1,0 +1,1 @@
+The Internet Archive scans are not the same ones used for the Project Gutenberg transcription. The PG edition is divided in four volumes, while this one makes no such division. The IA scans have the chapter 18 of this edition divided in two parts (chapters 18 and 19 of the scan), so it appears to have an extra chapter.
