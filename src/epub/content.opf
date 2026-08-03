@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ann-radcliffe/the-mysteries-of-udolpho</dc:identifier>
 		<dc:date>2024-02-05T17:50:32Z</dc:date>
@@ -58,12 +58,12 @@
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">32</meta>
-		<dc:description id="description">A young woman experiences a series of unfortunate situations connected to an ancient castle.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman experiences a series of unfortunate situations connected to an ancient castle.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Mysteries of Udolpho&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ann-radcliffe"&gt;Ann Radcliffe’s&lt;/a&gt; fourth novel, first published in four volumes in 1794. It’s a typical gothic novel: set in a large castle which experiences supposedly supernatural events, a cruel and cunning villain is opposed by a young, virtuous heroine, who experiences great terror in the hands of her adversary.&lt;/p&gt;
 			&lt;p&gt;Emily St. Aubert, the novel’s protagonist, loses her parents and is placed in the care of her aunt, who unwittingly puts her in great danger. Emily must outwit the count Montoni, her late guardian’s husband and a cruel and manipulating man, who attempts to deceive and coerce her. The hope of returning to her home in France and being reunited with her suitor Valancourt gives her the strength she needs to oppose the count’s schemes.&lt;/p&gt;
 			&lt;p&gt;The novel was parodied by &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt; in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jane-austen/northanger-abbey"&gt;Northanger Abbey&lt;/a&gt;&lt;/i&gt;, where that novel’s protagonist draws parallels between &lt;i&gt;Udolpho&lt;/i&gt; and the people around her.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3268</dc:source>
 		<dc:source>https://archive.org/details/mysteriesudolph00unkngoog</dc:source>
