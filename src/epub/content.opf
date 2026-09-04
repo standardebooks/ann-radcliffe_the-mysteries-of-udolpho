@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Mysteries of Udolpho</dc:title>
 		<meta property="file-as" refines="#title">Mysteries of Udolpho, The</meta>
-		<dc:subject id="subject-1">Orphans -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Orphans--Fiction</dc:subject>
 		<dc:subject id="subject-2">Horror tales</dc:subject>
-		<dc:subject id="subject-3">Inheritance and succession -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Inheritance and succession--Fiction</dc:subject>
+		<dc:subject id="subject-4">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-5">Gothic fiction</dc:subject>
-		<dc:subject id="subject-6">Guardian and ward -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Castles -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Italy -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Guardian and ward--Fiction</dc:subject>
+		<dc:subject id="subject-7">Castles--Fiction</dc:subject>
+		<dc:subject id="subject-8">Italy--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108587</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
